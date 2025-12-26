@@ -2,10 +2,10 @@
 
 ## Base URL: http://localhost:5000/api
 
-Method      Endpoint        Description         Protected
-POST        /auth/register  Register new user       No
-POST        /auth/login     Login user              No
-GET         /auth/meGet     current user            Yes
+- Method      Endpoint        Description         Protected
+- POST        /auth/register  Register new user       No
+- POST        /auth/login     Login user              No
+- GET         /auth/meGet     current user            Yes
 
 ## Request/Response Examples
 
