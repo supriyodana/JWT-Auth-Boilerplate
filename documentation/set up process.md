@@ -1,7 +1,7 @@
 # Prerequisites
-Node.js (v18 or higher)
-MongoDB (local or Atlas)
-npm package manager
+- Node.js (v18 or higher)
+- MongoDB (local or Atlas)
+- npm package manager
 
 
 # Backend Setup
@@ -14,3 +14,11 @@ npm package manager
 
 4. Run backend: npm run dev
 
+
+# Frontend Setup
+
+1. Inside frontend directory install dependencies: npm install
+
+2. vite.config.ts,tsconfig.json set.
+
+3. Run the frontend: npm run dev
